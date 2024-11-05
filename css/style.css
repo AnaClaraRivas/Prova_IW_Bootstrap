@@ -1,0 +1,39 @@
+
+body{
+    background-color: rgb(73, 48, 97);
+}
+section{
+    margin: 10%;
+}
+
+h1,p{
+    color:white
+}
+.card-text{
+    color: black;
+}
+h1{
+    margin-bottom: 5%;
+}
+
+.grid-img{
+    width: 100%;
+
+}
+
+.progresso{
+    margin-top: 5%;
+}
+
+.card{
+    width: 100%;
+    margin: 2%;
+}
+
+.menu, footer{
+    background-color: rgb(255, 165, 255);
+}
+
+footer{
+    padding: 2%;
+}
